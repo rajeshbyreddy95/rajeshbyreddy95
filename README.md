@@ -20,8 +20,7 @@ I'm a computer science student currently pursuing my Master of Computer Applicat
 
 Let's connect and learn together:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/byreddy-rajesh)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rajeshbyreddy95/)
 
 ## 🎯 Goals
 
