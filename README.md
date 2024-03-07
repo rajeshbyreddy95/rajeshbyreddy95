@@ -5,7 +5,7 @@ I'm a computer science student currently pursuing my Master of Computer Applicat
 ## About Me
 
 - 📚 Currently a student at NIT Warangal, learning and growing in the world of computer science.
-- 💻 I have basic knowledge of HTML, CSS, JavaScript, Bootstrap, and C++.
+- 💻 I have a knowledge of HTML, CSS,  Bootstrap, JavaScript, React JS and C++.
 - 🌱 I'm passionate about expanding my coding skills and knowledge.
 
 ## Skills
